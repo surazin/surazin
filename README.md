@@ -33,17 +33,13 @@ Your README will now be visible on the main page of your repository! -->
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
-Actively Going through:
-  - 100 Devs with Leon
-  - The Odin Project: Fundamentals + Full Stack JavaScript
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
+* ⭐ Ainda aprendendo e tentando, objetivo é aprender a programar!
 
-* 🐾 I’m looking to network and make friends here! <br><br>
+* 🌔 Ainda apredendo ingles! <br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+* 🌊 Quero aprender lua! <br><br>
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
+* ☕gosto de ideias interessantes, e de historias profundas!. <br><br>
 
 * :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 
