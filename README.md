@@ -26,13 +26,12 @@ Your README will now be visible on the main page of your repository! -->
 
 <h2 align="center"> estranho, curioso, e <img src="assests/flamey.gif" width="30"/>apaixonado<img src="assests/flamey.gif" width="30"/> por rosa!</h2>
 
-* ⭐ Ainda aprendendo e tentando, objetivo é aprender a programar!
+* ⭐ Ainda aprendendo e tentando, objetivo é aprender a programar! <br>br>
   
-
 * 🌔 Ainda apredendo ingles! <br><br>
 
 * 🌊 Quero aprender lua! <br><br>
 
 * ☕gosto de ideias interessantes, e de historias profundas!. <br><br>
 
-* Pronomes: ele/qualquer
+* 🎭 Pronomes: ele/qualquer
