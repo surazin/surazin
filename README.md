@@ -24,11 +24,10 @@ Your README will now be visible on the main page of your repository! -->
 
 <img ![image](https://github.com/user-attachments/assets/00014b5b-5885-4a1b-8879-69acb94ae027)
 ">
-<img ![image](https://github.com/user-attachments/assets/320fd795-5f2e-41b5-ae1b-11eca9e53933)
-">
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+    <img src="![image](https://github.com/user-attachments/assets/dfb748f7-3ccb-4a47-a8f8-f7db92cc2350)
+">
 </p> <br>
 
 <a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
