@@ -21,6 +21,8 @@ Feel free to copy and paste anything you liked from my readme (Customizing it to
 Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
 
 Your README will now be visible on the main page of your repository! -->
+![image](https://github.com/user-attachments/assets/6cf7f502-c870-45b2-86e1-5e9b13fab7be)
+
 
 <h2 align="center"> estranho, curioso, e <img src="assests/flamey.gif" width="30"/>apaixonado<img src="assests/flamey.gif" width="30"/> por rosa!</h2>
 
