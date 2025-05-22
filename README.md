@@ -30,7 +30,8 @@ Your README will now be visible on the main page of your repository! -->
 ">
 </p> <br>
 
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="![image](https://github.com/user-attachments/assets/60583b0a-0c17-416a-8fb9-eda1a6f0e7b8)
+" width="350" alt="HyunSun's Dev Card" /></a>
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
