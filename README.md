@@ -24,7 +24,8 @@ Your README will now be visible on the main page of your repository! -->
 
 <img ![image](https://github.com/user-attachments/assets/00014b5b-5885-4a1b-8879-69acb94ae027)
 ">
-<img  src="assests/borderseperator.gif">
+<img ![image](https://github.com/user-attachments/assets/320fd795-5f2e-41b5-ae1b-11eca9e53933)
+">
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
