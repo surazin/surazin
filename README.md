@@ -27,6 +27,7 @@ Your README will now be visible on the main page of your repository! -->
 <h2 align="center"> estranho, curioso, e <img src="assests/flamey.gif" width="30"/>apaixonado<img src="assests/flamey.gif" width="30"/> por rosa!</h2>
 
 * ⭐ Ainda aprendendo e tentando, objetivo é aprender a programar!
+  
 
 * 🌔 Ainda apredendo ingles! <br><br>
 
@@ -34,4 +35,4 @@ Your README will now be visible on the main page of your repository! -->
 
 * ☕gosto de ideias interessantes, e de historias profundas!. <br><br>
 
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, e Reddit. <br><br>
+* Pronomes: ele/qualquer
