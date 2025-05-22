@@ -26,7 +26,7 @@ Your README will now be visible on the main page of your repository! -->
 
 <h2 align="center"> estranho, curioso, e <img src="assests/flamey.gif" width="30"/>apaixonado<img src="assests/flamey.gif" width="30"/> por rosa!</h2>
 
-* ⭐ Ainda aprendendo e tentando, objetivo é aprender a programar! <br>br>
+* ⭐ Ainda aprendendo e tentando, objetivo é aprender a programar! <br>
   
 * 🌔 Ainda apredendo ingles! <br><br>
 
@@ -35,3 +35,6 @@ Your README will now be visible on the main page of your repository! -->
 * ☕gosto de ideias interessantes, e de historias profundas!. <br><br>
 
 * 🎭 Pronomes: ele/qualquer
+
+![image](https://github.com/user-attachments/assets/26815b03-ad3d-464a-9151-4e24bb179b41)
+
