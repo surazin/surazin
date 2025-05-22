@@ -30,10 +30,11 @@ Your README will now be visible on the main page of your repository! -->
 ">
 </p> <br>
 
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="![image](https://github.com/user-attachments/assets/60583b0a-0c17-416a-8fb9-eda1a6f0e7b8)
-" width="350" alt="HyunSun's Dev Card" /></a>
+<a href="![image](https://github.com/user-attachments/assets/58bb64e0-9066-42b4-aab1-9a89b71262a3)
+"> <img align='right' src="![image](https://github.com/user-attachments/assets/60583b0a-0c17-416a-8fb9-eda1a6f0e7b8)
+" width="350" alt="surby" /></a>
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="center"> estranho, curioso, and <img src="assests/flamey.gif" width="30"/>apaixonado<img src="assests/flamey.gif" width="30"/> por rosa!</h2>
 
 * ⭐ Ainda aprendendo e tentando, objetivo é aprender a programar!
 
